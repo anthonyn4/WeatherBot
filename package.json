@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "node-fetch": "^3.2.10"
+  },
+  "name": "weatherbot",
+  "version": "1.0.0",
+  "description": "Discord bot that gets weather data",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Nguyen",
+  "license": "ISC"
+}
